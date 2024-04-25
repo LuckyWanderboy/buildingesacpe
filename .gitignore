@@ -9,3 +9,4 @@ Binaries/
 *.VC.db
 *.VC.db-wal
 Saved/Telemetry/Telemetry.json
+.vs/BuildingEscape/v17/ipch/4eb5a4eac6638c66.ipch
