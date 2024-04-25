@@ -1,0 +1,10 @@
+Content/StarterContent/
+Intermediate/
+Binaries/
+*/Build
+*/DerivedDataCache
+*/Saved
+
+##VS Generated Files
+*.VC.db
+*.VC.db-wal
