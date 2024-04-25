@@ -8,3 +8,4 @@ Binaries/
 ##VS Generated Files
 *.VC.db
 *.VC.db-wal
+Saved/Telemetry/Telemetry.json
